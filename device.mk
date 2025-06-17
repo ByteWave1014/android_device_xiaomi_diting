@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 PRODUCT_PACKAGES += \
     ApertureResDiting \
+    EuiccResDiting \
     FrameworksResDiting \
     NfcResDiting \
     SettingsProviderResDiting \
